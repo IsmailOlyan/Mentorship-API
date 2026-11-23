@@ -13,7 +13,7 @@ const options = {
     },
     servers: [
       {
-        url: process.env.NODE_ENV === 'development' ? 'http://localhost:5000' : 'https://https://mentorship-api-1-zcuo.onrender.com'
+        url: process.env.NODE_ENV === 'development' ? 'http://localhost:5000' : 'https://mentorship-api-1-zcuo.onrender.com'
       }
     ],
     components: {
